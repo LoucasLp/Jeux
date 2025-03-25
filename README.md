@@ -1,4 +1,4 @@
-# Nom du jeux
+# Sparte si léonidas n'avait pas existé
 Groupe de LAPISARDI
 
 ## Sujet 
@@ -14,4 +14,23 @@ Je souhaite créer un jeu en 3D de type RPG avec un style cartoon. Le thème est
 ```
 
 ## 2 Identite
+
+Il m'a génèré plusieurs nom Comme :
+
+* "Spartiate en folie"
+* "Léonidas le maladroit"
+* "Sparte en ridicule"
+* "Guerre des guignols"
+* "Les Spartiates déjantés"
+* "Bataille de la bêtise"
+* "Spartiate en cavale"
+* "La guerre des idiots"
+
+Mais j'ai choisi "Sparte si léonidas n'avait pas existé".
+
+Pour le logo j'ai choisie:
+
+![Logo](./2.identite/Flux_Dev_A_humorous_logo_for_a_game_titled_Sparta_if_Leonidas__0.jpeg)
+
+Le jeux va etre dans un style cartoon avec des couleurs assez vive
 

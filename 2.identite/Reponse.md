@@ -66,3 +66,42 @@ Ou encore :
 * "Léonidas et les Spartiates débiles"
 
 Ces noms mettent en avant l'aspect comique et humoristique du jeu, et je pense qu'ils pourraient attirer l'attention des joueurs. Qu'en pensez-vous?
+
+> Comment l'identité visuel devrait représenter (logo style graphique)
+
+L'identité visuelle de "Sparte si Léonidas n'existait pas" devrait refléter l'esprit humoristique et loufoque du jeu. Voici quelques suggestions pour le logo et le style graphique :
+
+**Logo :**
+
+* Un logo qui représente un guerrier spartiate maladroit, avec un casque en forme de poulet ou un bouclier en forme de fromage.
+* Un logo qui montre un guerrier spartiate en train de faire une danse ridicule, avec des jambes courtes et des bras courts.
+* Un logo qui représente un guerrier spartiate avec un visage rond et un nez gros, avec un expression comique.
+
+**Style graphique :**
+
+* Un style graphique cartoon, avec des lignes épaisses et des couleurs vives.
+* Un style graphique qui rappelle les dessins animés des années 80, avec des personnages exagérés et des décors simplifiés.
+* Un style graphique qui combine des éléments de la Grèce antique avec des éléments modernes et humoristiques, comme des guerriers spartiates avec des lunettes de soleil ou des casques en forme de poulet.
+
+**Couleurs :**
+
+* Des couleurs vives et humoristiques, comme le rouge, le bleu et le jaune.
+* Des couleurs qui rappellent la Grèce antique, comme le blanc et le bleu, mais avec une touche d'humour et de fantaisie.
+* Des couleurs qui contrastent avec les couleurs sombres et sérieuses des jeux de guerre traditionnels.
+
+**Typographie :**
+
+* Une typographie playfully, avec des lettres grasses et des caractères exagérés.
+* Une typographie qui rappelle les titres de dessins animés, avec des lettres qui sautent et des mots qui dansent.
+* Une typographie qui combine des éléments de la Grèce antique avec des éléments modernes et humoristiques, comme des lettres en forme de colonnes ou des mots en forme de casques.
+
+**Imaginaire :**
+
+* Des images qui montrent des guerriers spartiates maladroits, avec des armures ridicules et des armes comiques.
+* Des images qui représentent des scènes de bataille, mais avec des éléments humoristiques, comme des guerriers qui trébuchent ou des ennemis qui sont pris au dépourvu.
+* Des images qui montrent des personnages du jeu, comme le guerrier spartiate principal, avec des expressions comiques et des poses ridicules.
+
+En résumé, l'identité visuelle de "Sparte si Léonidas n'existait pas" devrait être humoristique, loufoque et playfully, avec des éléments de la Grèce antique et des éléments modernes et fantaisistes. Le logo et le style graphique devraient refléter l'esprit du jeu et attirer l'attention des joueurs qui aiment les jeux humoristiques et les dessins animés.
+
+
+J'ai généré les images avec leonardo.ai
