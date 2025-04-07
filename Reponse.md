@@ -105,3 +105,65 @@ En résumé, l'identité visuelle de "Sparte si Léonidas n'existait pas" devrai
 
 
 J'ai généré les images avec leonardo.ai
+
+>peut me faire des prompt suni pour la musique du jeux ,la musique pendant la bataille adapter a l'univers du jeux
+
+Voici quelques prompts pour la musique du jeu "Sparte si Léonidas n'existait pas" :
+
+**Prompt pour la musique de fond :**
+
+* "Créez une musique de fond qui évoque l'atmosphère d'une ville grecque antique, mais avec une touche d'humour et de fantaisie. Pensez à des instruments tels que la lyre, la flûte et le tambourin, mais avec des rythmes et des mélodies modernes et amusants."
+* "Dessinez une musique qui fait penser à une fête grecque, avec des instruments traditionnels et des rythmes folkloriques, mais avec une touche de rock et de pop pour la rendre plus énergique et amusante."
+
+**Prompt pour la musique de bataille :**
+
+* "Créez une musique de bataille qui est à la fois énergique et amusante, avec des instruments tels que les tambours, les trompettes et les cordes. Pensez à une musique qui fait penser à une bataille de farce, avec des rythmes et des mélodies qui sont à la fois heroïques et ridicules."
+* "Dessinez une musique qui évoque l'idée d'une bataille entre des guerriers spartiates maladroits et des envahisseurs perses sérieux, avec des instruments tels que les cuivres, les percussions et les cordes. Pensez à une musique qui est à la fois épique et comique, avec des rythmes et des mélodies qui sont à la fois intenses et amusants."
+
+**Prompt pour la musique de victoire :**
+
+* "Créez une musique de victoire qui est à la fois joyeuse et ridicule, avec des instruments tels que les trompettes, les tambours et les cordes. Pensez à une musique qui fait penser à une célébration grecque, avec des rythmes et des mélodies qui sont à la fois traditionnels et modernes."
+* "Dessinez une musique qui évoque l'idée d'une victoire pour les guerriers spartiates maladroits, avec des instruments tels que les cuivres, les percussions et les cordes. Pensez à une musique qui est à la fois heroïque et comique, avec des rythmes et des mélodies qui sont à la fois intenses et amusants."
+
+**Exemples de musique :**
+
+* La musique de la série "Monty Python" pour l'humour et la fantaisie
+* La musique de la série "Hercule" pour l'atmosphère grecque antique
+* La musique de la série "Les Simpson" pour l'humour et la satire
+* La musique de la série "Game of Thrones" pour l'épique et la fantaisie
+
+J'espère que ces prompts vous aideront à créer une musique qui convient à l'univers du jeu "Sparte si Léonidas n'existait pas"!
+
+
+>donne moi un prompt pour crée en 3D avec meshy le personnage principal
+
+
+Voici un prompt pour créer le personnage principal de "Sparte si Léonidas n'existait pas" en 3D avec Meshy :
+
+**Prompt :**
+
+"Créez un personnage 3D de guerrier spartiate maladroit et comique, avec les caractéristiques suivantes :
+
+* Corps : petit, gras et trapu, avec des jambes courtes et des bras courts
+* Visage : rond et jovial, avec un nez gros et des yeux petits
+* Armure : une armure de guerrier spartiate traditionnelle, mais avec des éléments comiques tels que des plaques de protection en forme de fromage ou des épaulières en forme de poulet
+* Armes : une épée en caoutchouc ou une lance en forme de balai
+* Expression : une expression comique et maladroite, avec la bouche ouverte et les yeux écarquillés
+
+Utilisez des meshes simples et des textures colorées pour créer un personnage qui est à la fois humoristique et charmant. N'oubliez pas d'ajouter des détails comiques tels que des boutons qui tombent ou des chaussures qui sont trop grandes pour les pieds du personnage.
+
+**Références :**
+
+* Les dessins animés de "Les Simpson" ou "South Park" pour l'humour et la comédie
+* Les jeux vidéo de "World of Warcraft" ou "Team Fortress 2" pour les armures et les armes
+* Les films de "Monty Python" pour l'humour et la satire
+
+**Paramètres de Meshy :**
+
+* Utilisez des meshes simples et des textures de 1024x1024 pour créer un personnage qui est à la fois détaillé et performant
+* Utilisez des matériaux tels que le métal, le cuir et la pierre pour créer des textures réalistes
+* Utilisez des lumières et des ombres pour créer un effet de profondeur et de volume
+
+J'espère que ce prompt vous aidera à créer un personnage principal qui est à la fois humoristique et charmant pour votre jeu "Sparte si Léonidas n'existait pas"!
+
+
